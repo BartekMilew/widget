@@ -11,4 +11,3 @@ ReactDOM.render(
 <App {...config} />, el)
 );
 
-// ReactDOM.render(<App />, document.getElementById('root'));
