@@ -8,7 +8,9 @@
     "start": "webpack-dev-server --open",
     "build": "vite build",
     "test": "test",
-    "dev": "vite serve"
+    "dev": "vite serve",
+    "buildweb": "webpack --config webpack.config.js"
+
   },
   "author": "",
   "license": "ISC",

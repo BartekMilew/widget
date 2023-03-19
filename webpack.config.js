@@ -15,7 +15,7 @@ module.exports = {
   /** "entry"
    * the entry point
    */
-  entry: "./src/index.js",
+  entry: "./src/index.jsx",
   output: {
     filename: "widget.js",
     path: path.resolve(bundleOutputDir),
